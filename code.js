@@ -1152,4 +1152,5 @@
     }
     }
     Scratch.extensions.register(new lordcatprojectinterfaces())
+
 })(Scratch)
